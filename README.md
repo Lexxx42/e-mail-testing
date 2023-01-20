@@ -1,4 +1,4 @@
-# email-testing
+# email testing check-list
 version 1.0
 
 email info: https://en.wikipedia.org/wiki/Email_address
